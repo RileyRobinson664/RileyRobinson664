@@ -1,11 +1,12 @@
-<h1>This is a portfolio for some of my projects.</h1>
+<h1>This is my portfolio. <br/></h1>
 
 <h2>My Projects:</h2>
 
-- <b>Vulnrabality scanning on Metasploiatable 2.</b>
+- <b>Metasploitable 2</b>
   - [Metasploitable 2](linkhere)
- 
-<h2>Connect with me:</h2>
+
+<h2>Contact</h2>
+
 - [Linkedin](https://www.linkedin.com/in/riley-robinson-972443351/)
 
 <!--
