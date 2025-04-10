@@ -3,7 +3,10 @@
 <h2>My Projects:</h2>
 
 - <b>Vulnrabality scanning on Metasploiatable 2.</b>
-  - [METASPLOIATABLE LINK HERE]()
+  - [Metasploitable 2](linkhere)
+ 
+<h2>Contact me</h2>
+  - [Linkedin](https://www.linkedin.com/in/riley-robinson-972443351/)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
