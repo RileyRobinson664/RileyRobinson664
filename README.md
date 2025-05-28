@@ -1,25 +1,14 @@
-<h1>This is my portfolio. <br/></h1>
+<h1>Hello! This is my portfolio. I have a few projects that I did to get a better grasp over some of the more technical parts of Networking Security. <br/></h1>
 
 <h2>My Projects:</h2>
 
-- <b>Metasploitable 2</b>
-  - [Metasploitable 2](https://github.com/RileyRobinson664/Metasploiatable2/tree/main)
+- <b>[Metasploitable 2 Configuration and Assessment](https://github.com/RileyRobinson664/Metasploiatable2/tree/main)</b>
+  - Relivant Skills: VLAN configuration in a hypervisor, peitration testing, web application security assessment, network configuration.
+ 
+
+- <b>[Simple Python Port Scanner](https://github.com/RileyRobinson664/SimplePythonPortScanner)</b>
+  - Relivant Skills: Python, network enumeration, networking security.
 
 <h2>Contact</h2>
 
 - [Linkedin](https://www.linkedin.com/in/riley-robinson-972443351/)
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
