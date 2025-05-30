@@ -1,4 +1,4 @@
-<h1>Hello! This is my portfolio. I have a few projects that I did to get a better grasp over some of the more technical parts of Networking Security. <br/></h1>
+<h1>Hello! This is my portfolio. Here you can see some projects that I did to practice things I had leared and learn new things as well. <br/></h1>
 
 <h2>My Projects:</h2>
 
