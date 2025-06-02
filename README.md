@@ -5,9 +5,11 @@
 - <b>[Metasploitable 2 Configuration and Assessment](https://github.com/RileyRobinson664/Metasploiatable2/tree/main)</b>
   - Relivant Skills: VLAN configuration in a hypervisor, peitration testing, web application security assessment, network configuration.
  
-
 - <b>[Simple Python Port Scanner](https://github.com/RileyRobinson664/SimplePythonPortScanner)</b>
   - Relivant Skills: Python, network enumeration, networking security.
+ 
+- <b>[Simple Python Key Logger](https://github.com/RileyRobinson664/SimplePythonKeylogger/tree/main)</b>
+  - Relivant Skills: Python, malwre development, information gathering.
 
 <h2>Contact</h2>
 
